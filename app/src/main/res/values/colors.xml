@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#CEC1C1</color>
+    <color name="colorAccent">#36CFBD</color>
+    <color name="item_pressed_colored_navigation">#36CFBD</color>
+</resources>
